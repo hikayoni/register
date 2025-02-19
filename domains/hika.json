@@ -1,9 +1,11 @@
 {
-  "owner": {
-    "username": "hika",
-    "email": "hikayoni@gmail.com"
-  },
-  "record": {
-    "CNAME": "hikadev.github.io"
-  }
+    "description": "Will be used as a portfolio and project showcase.",
+    "repo": "https://github.com/hikayoni/hikadev.github.io",
+    "owner": {
+        "username": "hikayoni",
+        "email": "hikayoni@gmail.com"
+    },
+    "record": {
+        "CNAME": "hikadev.github.io"
+    }
 }
